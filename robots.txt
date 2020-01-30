@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaeghiaje.dkammer.org/sitemap.xml
